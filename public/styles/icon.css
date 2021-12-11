@@ -1,0 +1,90 @@
+.icon::before{
+	height: 24px;
+    width: 24px;
+    display: inline-block;
+	background-size: cover;
+	content: ' ';
+}
+.icon.icons8::before{
+	background-image: url('../images/icon/icons8-знак-наруто.svg');
+}
+.icon.icons8:hover::before{
+	background-image: url('../images/icon/icons8-знак-наруто_hover.svg');
+}
+
+.icon.star_rate::before{
+	background-image: url('../images/icon/star_rate_black_24dp.svg');
+}
+.icon.star_rate:hover::before{
+	background-image: url('../images/icon/star_rate_black_24dp_hover.svg');
+}
+
+.icon.nights_stay::before{
+	background-image: url('../images/icon/nights_stay_black_24dp.svg');
+}
+.icon.nights_stay:hover::before{
+	background-image: url('../images/icon/nights_stay_black_24dp_hover.svg');
+}
+
+.icon.science::before{
+	background-image: url('../images/icon/science_black_24dp.svg');
+}
+.icon.science:hover::before{
+	background-image: url('../images/icon/science_black_24dp_hover.svg');
+}
+
+.icon.movie::before{
+	background-image: url('../images/icon/movie_black_24dp.svg');
+}
+.icon.movie:hover::before{
+	background-image: url('../images/icon/movie_black_24dp _hover.svg');
+}
+
+.icon.brightness_5::before{
+	background-image: url('../images/icon/brightness_5_black_24dp.svg');
+}
+.icon.brightness_5:hover::before{
+	background-image: url('../images/icon/brightness_5_black_24dp_hover.svg');
+}
+
+.icon.play_arrow::before{
+	background-image: url('../images/icon/play_arrow_black_24dp.svg');
+}
+.icon.play_arrow:hover::before{
+	background-image: url('../images/icon/play_arrow_black_24dp_hover.svg');
+}
+
+.icon.air::before{
+	background-image: url('../images/icon/air_black_24dp.svg');
+}
+.icon.air:hover::before{
+	background-image: url('../images/icon/air_black_24dp _hover.svg');
+}
+
+.icon.offline_bolt::before{
+	background-image: url('../images/icon/offline_bolt_black_24dp.svg');
+}
+.icon.offline_bolt:hover::before{
+	background-image: url('../images/icon/offline_bolt_black_24dp_hover.svg');
+}
+
+.icon.water_drop::before{
+	background-image: url('../images/icon/water_drop_black_24dp.svg');
+}
+.icon.water_drop:hover::before{
+	background-image: url('../images/icon/water_drop_black_24dp_hover.svg');
+}
+
+.icon.landscape::before{
+	background-image: url('../images/icon/landscape_black_24dp.svg');
+}
+.icon.landscape:hover::before{
+	background-image: url('../images/icon/landscape_black_24dp_hover.svg');
+}
+
+.icon.fireplace::before{
+	background-image: url('../images/icon/fireplace_black_24dp.svg');
+}
+.icon.fireplace:hover::before{
+	background-image: url('../images/icon/fireplace_black_24dp_hover.svg');
+}
