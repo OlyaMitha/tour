@@ -1,5 +1,13 @@
 # new
 
+# Project Description
+```
+Designing a travel agency website
+```
+# Technologies used
+```
+Vue, HTML, CSS, JavaScript
+ ```
 ## Project setup
 ```
 npm install
